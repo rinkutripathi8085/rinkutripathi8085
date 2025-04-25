@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <span style="color:blue">Rinku Tripathi</span> — aka <code>rinkutripathi8085</code></h1>
+<h1 align="center">Hi there, I'm <span style="color:blue">Rinku Tripathi</span> —  <code>rinkutripathi8085</code></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Machine+Learning+Explorer;Tech+Enthusiast;Always+Learning+New+Stuff!&center=true&width=500&height=45">
