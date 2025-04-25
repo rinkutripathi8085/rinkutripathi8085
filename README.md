@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I talk to machines, and sometimes... they reply back!
 - 🧠 Exploring: NLP, AI, Flask, Django, Data Science
 - 🎓 B.Tech (CS) 2021–2025
-- 🛡️ Passionate about **Python, Automation, and Cybersecurity**
+- 🛡️ Passionate about **Python, Automation, Ai and Cybersecurity**
 
 ---
 
